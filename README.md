@@ -163,14 +163,15 @@ graph LR
 ├── 📓 02_data_exploration.ipynb         # EDA & integrity checks
 ├── 📓 03_data_preprocessing.ipynb       # 🔧 Cleaning pipeline
 │
-├── 📊 04_question_01.ipynb              # Q1: Unit Price Efficiency
-├── 📊 04_question_02.ipynb              # Q2: Neighborhood Premiums
-├── 📊 04_question_03.ipynb              # Q3: Pricing Uncertainty
-├── 📊 04_question_04.ipynb              # Q4: Floor Effect Analysis
-├── 📊 04_question_05.ipynb              # Q5: Market Segmentation
-├── 📊 04_question_06.ipynb              # Q6: Price Prediction Models
+├── ❓ 04_question_formulation.ipynb     # Question statement and motivation
+├── 📊 05_data_analysis_Q1.ipynb         # Q1: Unit Price Efficiency
+├── 📊 05_data_analysis_Q2.ipynb         # Q2: Neighborhood Premiums
+├── 📊 05_data_analysis_Q3.ipynb         # Q3: Pricing Uncertainty
+├── 📊 05_data_analysis_Q4.ipynb         # Q4: Floor Effect Analysis
+├── 📊 05_data_analysis_Q5.ipynb         # Q5: Market Segmentation
+├── 📊 05_data_analysis_Q6.ipynb         # Q6: Price Prediction Models
 │
-├── 📝 05_project_summary.ipynb          # Final report & conclusions
+├── 📝 06_project_summary.ipynb          # Final report & conclusions
 │
 ├── 📁 data/
 │   ├── 📄 raw/surat_uncleaned.csv       # Original dataset

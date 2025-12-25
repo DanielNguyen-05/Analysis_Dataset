@@ -4,7 +4,7 @@
 
 ## 1. Team Member Information
 | Member Name | Student ID | Role |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | **Nguyen Huu Phuc** | 23127248 | Data Engineer & Analyst | 
 | **Le Nhat Khoi** | 23127004 | Statistician & Analyst | 
 | **Nguyen Hai Dang** | 23127165 | ML Engineer & Lead | 
