@@ -49,14 +49,15 @@
 │
 ├── 01_data_collection.ipynb  
 ├── 02_data_exploration.ipynb                
-├── 03_data_preprocessing.ipynb              
-├── 04_question_01.ipynb       
-├── 04_question_02.ipynb   
-├── 04_question_03.ipynb   
-├── 04_question_04.ipynb 
-├── 04_question_05.ipynb
-├── 04_question_06.ipynb                  
-├── 05_project_summary.ipynb      
+├── 03_data_preprocessing.ipynb   
+├── 04_question_formulation.ipynb     
+├── 05_data_analysis_Q1.ipynb       
+├── 05_data_analysis_Q2.ipynb   
+├── 05_data_analysis_Q3.ipynb   
+├── 05_data_analysis_Q4.ipynb 
+├── 05_data_analysis_Q5.ipynb
+├── 05_data_analysis_Q6.ipynb                  
+├── 06_project_summary.ipynb      
 │
 ├── data/
 │   ├── raw/surat_uncleaned.csv
