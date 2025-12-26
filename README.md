@@ -340,8 +340,8 @@ Ensure you have **Python 3.8+** installed on your system.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/surat-housing-analysis.git
-cd surat-housing-analysis
+git clone https://github.com/DanielNguyen-05/Analysis_Dataset.git
+cd Analysis_Dataset
 
 # Create virtual environment
 python -m venv .venv
@@ -370,7 +370,7 @@ graph TD
     E --> I[04_question_04.ipynb]
     E --> J[04_question_05.ipynb]
     E --> K[04_question_06.ipynb]
-    F --> L[05_project_summary.ipynb]
+    F --> L[06_project_summary.ipynb]
     G --> L
     H --> L
     I --> L
@@ -390,13 +390,12 @@ jupyter notebook 03_data_preprocessing.ipynb
 # ⚠️ This generates data/processed/surat_cleaned.npy
 
 # Step 3: Run any research question
-jupyter notebook 04_question_01.ipynb  # Unit efficiency
-jupyter notebook 04_question_02.ipynb  # Location premiums
-jupyter notebook 04_question_03.ipynb  # Price volatility
+jupyter notebook 05_data_analysis_Q1.ipynb  # Unit efficiency
+jupyter notebook 05_data_analysis_Q2.ipynb  # Location premiums
 # ... and so on
 
 # Step 4: View summary
-jupyter notebook 05_project_summary.ipynb
+jupyter notebook 06_project_summary.ipynb
 ```
 
 ---
@@ -537,7 +536,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Questions or suggestions?** Feel free to open an issue or reach out!
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielNguyen-05)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nhdang231@clc.fitus.edu.vn)
 
 ---
